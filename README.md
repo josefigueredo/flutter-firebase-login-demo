@@ -1,8 +1,2 @@
-# firebase_login_demo
+A Flutter project demo about the use of firebase authentication
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
